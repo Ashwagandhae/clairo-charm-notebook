@@ -2,7 +2,7 @@
 
 A [diplomatic edition](https://chaucer.fas.harvard.edu/types-editions) of [Clairo](https://en.wikipedia.org/wiki/Clairo)'s [Charm](<https://en.wikipedia.org/wiki/Charm_(Clairo_album)>) notebook that was shown in [this tiktok](https://www.tiktok.com/@xxclairoxx/video/7573392753493626126), created with [Typst](https://typst.app/).[^diplomatic]
 
-The PDF, located in `target/book.pdf`, contains the notebook's text and drawings recreated with standardized fonts and symbols while preserving each element's location on the page. You can also view images of each page in `target/book01.png`, `target/book02.png`, etc.
+The PDF, located [here](target/book.pdf), contains the notebook's text and drawings recreated with standardized fonts and symbols while preserving each element's location on the page. You can also view images of [page 1](target/book01.png), [page 2](target/book02.png), etc.
 
 ## why
 
