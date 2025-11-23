@@ -30,6 +30,4 @@ typst compile book.typ target/book.pdf # pdf
 typst compile book.typ target/book{0p}.png --ppi 600 # png
 ```
 
-## footnotes
-
 [^diplomatic]: I'm not sure if "diplomatic edition" is the correct description for this project. My goal is to create a PDF that uses a standard font to represent the text and standard symbols for any diagrams or other markings, while trying to match the original placement and spacing of all the elements on the page.
