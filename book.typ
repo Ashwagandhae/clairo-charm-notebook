@@ -343,6 +343,11 @@
 
 
 #page[
+  #show heading.where(level: 2): it => {
+    set text(size: text-size, weight: "regular")
+    set block(below: 0pt)
+    it
+  }
   #box(inset: (x: 0.25cm))[
     #underline[== like immunity b/c]
     - pop
